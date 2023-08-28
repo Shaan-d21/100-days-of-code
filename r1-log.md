@@ -35,6 +35,7 @@ From basic array manipulations to more intricate problem-solving, today's journe
 Onward to Day 2 with a rekindled motivation to push the boundaries and tackle more challenges. Stay tuned for more updates and coding insights!
 
 🌐 Connect with me on: [LinkedIn](https://www.linkedin.com/in/shaan-04f21/) | [Twitter](https://twitter.com/ShaanDewang_21)
-# Read Blog: [Day 1](https://coddingjournal.blogspot.com/2023/08/day-1-solved-basic-array-problems-on.html)
+
+ Read Blog: [Day 1](https://coddingjournal.blogspot.com/2023/08/day-1-solved-basic-array-problems-on.html)
 
 Hashtags: #100DaysOfCode #CodeJourney #Beginnings
