@@ -2,6 +2,26 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 24, Thursday, 2023].
 
+## Day 3: Navigating Arrays with Two-Pointer Magic
+
+### August 26, 2023
+## Today's Progress:
+
+With C++ as my trusty ship, I embarked on solving an array problem that demanded finding the intersection of two arrays. Armed with the two-pointer technique, I navigated through the arrays with precision. To my delight, I managed to crack the code in a mere 2-3 attempts! The satisfaction of arriving at the correct solution was a reward in itself. 
+
+📚 Problem 1:  Intersection of Two Arrays II
+
+🔗 Problem Link: [Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
+
+🚀 What's Next?
+Onward to Day 4 with a renewed enthusiasm for algorithms and data structures. Tomorrow's challenge promises to be even more exciting. Let's keep honing our skills and conquering coding landscapes!
+
+🌐 Connect with me on: [LinkedIn](https://www.linkedin.com/in/shaan-04f21/) | [Twitter](https://twitter.com/ShaanDewang_21)
+
+ Read Blog: [Day 3](https://coddingjournal.blogspot.com/2023/08/day-3-of-100-days-of-code-navigating.html)
+
+Hashtags: #100DaysOfCode #CodeJourney #Arrays #100DaysofCodeChallenge
+
 ## Day 2: Diving Deeper into Arrays
 
 ### August 25, 2023
@@ -9,7 +29,7 @@ The log of my #100DaysOfCode challenge. Started on [August 24, Thursday, 2023].
 
 On this coding expedition, I delved deeper into the world of arrays. Armed with my trusty C++ toolkit, I tackled problems that required more intricate thinking and strategic planning. today I solved a problem on arrays of easy level.
 
-📚 Problem 1:  Replace Elements with Greatest Element on Right Side - LeetCode
+📚 Problem 1:  Replace Elements with Greatest Element on Right Side
 
 🔗 Problem Link: [Link](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
 
