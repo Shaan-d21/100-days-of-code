@@ -2,6 +2,26 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 24, Thursday, 2023].
 
+## Day 4: Conquering Challenges and Exploring Approaches
+
+### August 27, 2023
+## Today's Progress:
+
+Today's puzzle tasked me with finding the maximum number of groups that could be formed from a given grade array, with a twist – there were some intriguing conditions to consider. Initially, the problem posed a formidable challenge. It's true that even the most experienced programmers encounter hurdles at times, and this was one of those moments for me.
+
+📚 Problem 1:  Maximum Number of Groups Entering a Competition
+
+🔗 Problem Link: [Link](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/description/)
+
+🚀 What's Next?
+Excited to leap into Day 5, meet a new challenge head-on, and continue this incredible coding journey. Stay curious, keep coding!
+
+🌐 Connect with me on: [LinkedIn](https://www.linkedin.com/in/shaan-04f21/) | [Twitter](https://twitter.com/ShaanDewang_21)
+
+ Read Blog: [Day 4](https://coddingjournal.blogspot.com/2023/08/day-4-conquering-challenges-and.html)
+
+Hashtags: #100DaysOfCode #CodeJourney #Arrays #100DaysofCodeChallenge
+
 ## Day 3: Navigating Arrays with Two-Pointer Magic
 
 ### August 26, 2023
