@@ -2,6 +2,36 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 24, Thursday, 2023].
 
+## Day 5: Navigating Binary Search Waters
+
+### August 28, 2023
+## Today's Progress:
+
+Armed with the arsenal of binary search techniques, I delved into a series of challenges. Firstly, I conquered an easy-level question from Striver’s SDE Sheet by "Take U Forward" on LeetCode. The simplicity of the problem belied its ability to prod my analytical thinking. It was a reminder that elegance often resides in simplicity.
+
+Next came the medium-level question on LeetCode. Aiming for a more robust solution, I set out to code an efficient algorithm. However, the path to success wasn't without its bumps and twists. Despite initial hurdles and time-consuming attempts, I pressed on. The "aha" moment arrived, and the solution finally crystallized.
+
+📚 Problem 1:  Find Target Indices After Sorting Array
+
+🔗 Problem Link: [Link](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)
+
+📚 Problem 2:  Best Time to Buy and Sell Stock
+
+🔗 Problem Link: [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+📚 Problem 3:  Find First and Last Position of Element in Sorted Array
+
+🔗 Problem Link: [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+
+🚀 What's Next?
+Onward to Day 6 with a renewed curiosity about algorithms, graphs, and their interconnectedness. I'm excited to keep uncovering hidden gems in the coding universe.
+
+🌐 Connect with me on: [LinkedIn](https://www.linkedin.com/in/shaan-04f21/) | [Twitter](https://twitter.com/ShaanDewang_21)
+
+ Read Blog: [Day 5](https://coddingjournal.blogspot.com/2023/08/hello-coding-comrades-day-5-of.html)
+
+Hashtags: #100DaysOfCode #CodeJourney #Arrays #100DaysofCodeChallenge #binarysearch
+
 ## Day 4: Conquering Challenges and Exploring Approaches
 
 ### August 27, 2023
