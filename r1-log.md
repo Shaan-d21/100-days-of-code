@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [August 24, Thursday, 2023].
 
 ## Day 5: Navigating Binary Search Waters
 
-### August 28, 2023
+### August 30, 2023
 ## Today's Progress:
 
 Armed with the arsenal of binary search techniques, I delved into a series of challenges. Firstly, I conquered an easy-level question from Striver’s SDE Sheet by "Take U Forward" on LeetCode. The simplicity of the problem belied its ability to prod my analytical thinking. It was a reminder that elegance often resides in simplicity.
