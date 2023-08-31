@@ -2,6 +2,38 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 24, Thursday, 2023].
 
+## Day 6: Unveiling Sorting Algorithms and the Quest for Optimization
+
+### August 31, 2023
+## Today's Progress:
+
+Today was dedicated to sorting algorithms – I delved into the mechanics of selection sort and bubble sort. These classic techniques, while familiar, hold the essence of algorithmic logic that forms the foundation of coding proficiency. With refreshed knowledge, I put these algorithms to the test by solving problems on GeeksforGeeks.
+
+An engaging problem caught my attention – the task was to detect if any number's double existed in an array. Starting with a brute force approach, I tackled the problem head-on. As I progressed, a realization dawned: for larger datasets, this method might not be the most efficient.
+
+One of the most remarkable aspects of coding is the global community's shared knowledge. Venturing into others' solutions, I uncovered a treasure trove of insights. The seemingly complex problem could be elegantly solved using binary search and hash tables. Embracing these alternative strategies highlighted the importance of optimization.
+
+📚 Problem 1:  Selection Sort
+
+🔗 Problem Link: [Link](https://practice.geeksforgeeks.org/problems/selection-sort/1)
+
+📚 Problem 2:  Bubble Sort
+
+🔗 Problem Link: [Link](https://practice.geeksforgeeks.org/problems/bubble-sort/1)
+
+📚 Problem 3:  Check If N and Its Double Exist
+
+🔗 Problem Link: [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)
+
+🚀 What's Next?
+Onward to Day 7 with a reinforced enthusiasm for algorithmic thinking. The journey continues, each day a step forward in honing coding skills and expanding problem-solving horizons.
+
+🌐 Connect with me on: [LinkedIn](https://www.linkedin.com/in/shaan-04f21/) | [Twitter](https://twitter.com/ShaanDewang_21)
+
+ Read Blog: [Day 6](https://coddingjournal.blogspot.com/2023/08/day-6-of-100-days-of-code-sorting.html)
+
+Hashtags: #100DaysOfCode #CodeJourney #Arrays #100DaysofCodeChallenge #binarysearch #sorting
+
 ## Day 5: Navigating Binary Search Waters
 
 ### August 30, 2023
